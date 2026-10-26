@@ -403,10 +403,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
-
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
-
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
 - [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
@@ -763,8 +759,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
 - [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
@@ -835,8 +829,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | h4cked](https://tryhackme.com/room/h4cked)
 
-- [ ] [TryHackMe | Carnage](https://tryhackme.com/room/c2carnage)
-
 - [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 
 - [ ] [TryHackMe | Snort](https://tryhackme.com/room/snort)
@@ -865,8 +857,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
 
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
-
 - [ ] [TryHackMe | Bounty Hacker](https://tryhackme.com/room/cowboyhacker)
 
 - [ ] [TryHackMe | Fowsniff CTF](https://tryhackme.com/room/ctf)
@@ -874,10 +864,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | RootMe](https://tryhackme.com/room/rrootme)
 
 - [ ] [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
-
-- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
-
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
 - [ ] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
@@ -887,11 +873,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Anonforce](https://tryhackme.com/room/bsidesgtanonforce)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
-
 - [ ] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)
-
-- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
 - [ ] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
@@ -903,17 +885,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
-- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-
 - [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 
 - [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
-
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
-
-- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
-
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
 - [ ] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
@@ -928,10 +902,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Couch](https://tryhackme.com/room/couch)
 
 - [ ] [TryHackMe | Source](https://tryhackme.com/room/source)
-
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
-
-- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
 - [ ] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
 
@@ -1148,8 +1118,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Wonderland](https://tryhackme.com/room/wonderland)
 
 - [ ] [TryHackMe | 0day](https://tryhackme.com/room/0day)
-
-- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
 - [ ] [TryHackMe | CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
 
@@ -1419,8 +1387,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | CherryBlossom](https://tryhackme.com/room/cherryblossom)
 
-- [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
-
 - [ ] [TryHackMe | Iron Corp](https://tryhackme.com/room/ironcorp)
 
 - [ ] [TryHackMe | Carpe Diem 1](https://tryhackme.com/room/carpediem1)
@@ -1574,10 +1540,6 @@ All the rooms mentioned here are absolute free. ENJOY!!
 - [ ] [TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
 
 - [ ] [TryHackMe | REvil Corp](https://tryhackme.com/room/revilcorp)
-
-- [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
-
-- [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
 - [ ] [TryHackMe | Conti](https://tryhackme.com/room/contiransomwarehgh)
 
