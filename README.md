@@ -1,19 +1,68 @@
-# TryHackMe Road Map
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Free%20TryHackMe%20Rooms&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=A%20curated%20roadmap%20of%20700%2B%20free%20hacking%20rooms&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Free TryHackMe Rooms"/>
+
+<a href="https://github.com/abimelsbk/free-tryhackme-rooms">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=88CC14&center=true&vCenter=true&width=600&lines=Learn+hacking+for+free.;728+rooms+%C2%B7+27+topics+%C2%B7+%240+spent.;Linux+%E2%86%92+Web+%E2%86%92+AD+%E2%86%92+CTFs+%E2%86%92+SOC" alt="Typing intro"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Rooms-728-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="728 rooms"/>
+<img src="https://img.shields.io/badge/Topics-27-1f6feb?style=for-the-badge" alt="27 topics"/>
+<img src="https://img.shields.io/badge/CTFs-315-c0392b?style=for-the-badge" alt="315 CTFs"/>
+<img src="https://img.shields.io/badge/Cost-%240-success?style=for-the-badge" alt="Cost $0"/>
+<img src="https://img.shields.io/badge/Verified-Oct%202026-8e44ad?style=for-the-badge" alt="Verified October 2026"/>
+
+<br/>
+
+<a href="https://github.com/abimelsbk/free-tryhackme-rooms/stargazers"><img src="https://img.shields.io/github/stars/abimelsbk/free-tryhackme-rooms?style=flat-square&color=f1c40f&logo=github" alt="Stars"/></a>
+<a href="https://github.com/abimelsbk/free-tryhackme-rooms/network/members"><img src="https://img.shields.io/github/forks/abimelsbk/free-tryhackme-rooms?style=flat-square&color=3498db&logo=github" alt="Forks"/></a>
+<a href="https://github.com/abimelsbk/free-tryhackme-rooms/commits/main"><img src="https://img.shields.io/github/last-commit/abimelsbk/free-tryhackme-rooms?style=flat-square&color=2ecc71" alt="Last commit"/></a>
+<img src="https://komarev.com/ghpvc/?username=abimelsbk-free-thm&style=flat-square&color=blueviolet&label=Views" alt="Views"/>
+
+</div>
 
 ---
 
 <br/>
 
-Hi Guys, here is a list of **700+ Free TryHackMe rooms** to start learning hacking. You dont have to paye huge amount to courses and institutions. 
-Learn this and you can land in a cybersecurity job, or you can start  bugbounty. It is arranged and compiled according to different topics so that 
+Hi Guys, here is a list of **700+ Free TryHackMe rooms** to start learning hacking. You don't have to pay a huge amount to courses and institutions.
+Learn this and you can land a cybersecurity job, or you can start bug bounty. It is arranged and compiled according to different topics so that
 you can start hacking right away.
 
-All the rooms mentioned here are absolute free. ENJOY!!
+Every room here was checked against TryHackMe in **October 2026**: subscriber-only, private and retired rooms were removed. ENJOY!!
 
-## Maintainer
+## 📊 Statistics
 
-> **_This repository is maintained by [Abimel S B kulumala | abimelsbk](https://github.com/abimelsbk/). For any mentorship, feedback or doubts feel free to reach [me.](https://www.linkedin.com/in/abimelsbk/)_**
-<br/>
+<div align="center">
+
+| 🧭 Track | Rooms | | 🚩 CTF Challenges | Rooms |
+| :-- | :--: | :--: | :-- | :--: |
+| 🐧 Fundamentals (Intro, Linux, Windows, Basics) | **61** | | 🟢 Easy CTF | **116** |
+| 🌐 Web & Networking | **63** | | 🟠 Medium CTF | **139** |
+| 🛡️ Blue Team, SOC & Forensics | **115** | | 🔴 Hard CTF | **60** |
+| ⚔️ Offensive (Recon, PrivEsc, AD, Windows, BoF) | **53** | | 🎄 Special Events | **19** |
+| 🔐 Crypto, Stego & Reverse Engineering | **24** | | 🧰 Tooling & Scripting | **35** |
+| 📱 Android & Wi-Fi | **5** | | 🧩 Misc | **38** |
+
+</div>
+
+## 👤 Maintainer
+
+<div align="center">
+
+**Abimel S B Kulumala** · Founder, Silicon Society · Cybersecurity researcher · Mentor · Public speaker
+
+<a href="https://abimelsbkulumala.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/abimelsbk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/abimelsbk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://twitter.com/abimelsbk"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+<a href="https://www.instagram.com/abimelsbk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<sub>For mentorship, feedback or doubts, feel free to reach out on any of the above. If this list helped you, drop a ⭐!</sub>
+
+</div>
 
 ## Table of Contents
 
